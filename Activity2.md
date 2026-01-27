@@ -1,4 +1,4 @@
-# Git Activity 2 - Work as a Team member #
+# Git Activity 2 - Work as a Team member # - Second Commit Test
 In this second activity, you'll work like you are a member of the team.  This activity will give you a good overview of how you can work with the repository while minimizing your team conflicts.
 
 ### Step 1: Complete activity 1 ###
