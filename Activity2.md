@@ -6,7 +6,7 @@ If you have not completed activity 1, you should do that prior to this activity.
 
 1.  Use your `forked` version of the repo to complete the activity.
 
-## Task 2: Checkout a new branch ##
+## Task 2: Checkout a new branch Other Change COnflict##
 Whenever you start on a new ticket, before you begin any work, you should make sure to get the latest version of the code, then checkout a branch.
 
 In this task, you will run commands to make sure that you have the latest code and that you can do your work in the safest way possible.
